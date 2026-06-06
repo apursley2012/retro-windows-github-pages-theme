@@ -1,0 +1,1 @@
+import{j as r}from"../../assets/jsx-runtime.js";function i({text:e}){return r.jsx("div",{className:"w-full overflow-hidden bg-black text-green-400 font-vt323 text-xl py-1 border-2 border-win-gray win98-inset whitespace-nowrap",children:r.jsxs("div",{className:"inline-block animate-marquee",children:[e,"        ",e]})})}export{i as M};
